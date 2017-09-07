@@ -2,7 +2,7 @@
 <strong>THE LNM INSTITUTE OF INFORMATION TECHNOLOGY</strong><br>
 <strong>Mobile: +919521872532</strong><br>
 <strong>Email: punit2403@gmail.com</strong>
----
+
 
 <h3>Career Objective:</h3>
 
