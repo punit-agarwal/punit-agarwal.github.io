@@ -28,7 +28,7 @@
     *	Role Played: Developer
     *	Skills Used: HTML, CSS, Bootstrap, jQuery.
     
-   The project aimed at creating a dynamic, interactive website for the client which allows the visitors to book and plan events...
+   The project aimed at creating a dynamic, interactive website for the client which allows the visitors to book and plan events.
   <h4>Project Link: www.partysarty.in/demo</h4>
 
 2.	Travelholics, A Google Chrome Extension
@@ -45,8 +45,8 @@
       *	Role Played: Developer and Tester
       *	Skills Used: HTML, CSS, jQuery, PHP.
       
-It is an online portal that allows you to give feedback to various faculties anonymously. It asks user to sign in by sending an OTP to user’s LNMIIT mail address. Once logged in, user can rate faculty on different parameters.
-<h4>Project Link: https://github.com/punit-agarwal/LNMfac</h4>
+      It is an online portal that allows you to give feedback to various faculties anonymously. It asks user to sign in by sending an  OTP to user’s LNMIIT mail address. Once logged in, user can rate faculty on different parameters.
+      <h4>Project Link: https://github.com/punit-agarwal/LNMfac</h4>
 
 4.	LNMIIT Hostel Management System
       *	Duration: August 2017 –August 2017
@@ -54,8 +54,8 @@ It is an online portal that allows you to give feedback to various faculties ano
       *	Role Played: Developer
       *	Skills Used: C.
       
-It is a traditional way of using management software, build using C language.
-<h4>Project Link: https://github.com/punit-agarwal/Hostel-Management-Software </h4>
+    It is a traditional way of using management software, build using C language.
+   <h4>Project Link: https://github.com/punit-agarwal/Hostel-Management-Software </h4>
 
 <h3>Extra-Curricular Activities:</h3>
 
