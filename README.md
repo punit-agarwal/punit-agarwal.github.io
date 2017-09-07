@@ -1,8 +1,8 @@
 <h2>PUNIT AGARWAL</h2>
-<strong>THE LNM INSTITUTE OF INFORMATION TECHNOLOGY</strong>
-<strong>Mobile: +919521872532</strong>
+<strong>THE LNM INSTITUTE OF INFORMATION TECHNOLOGY</strong><br>
+<strong>Mobile: +919521872532</strong><br>
 <strong>Email: punit2403@gmail.com</strong>
-                                          ________________________________________________
+---
 
 <h3>Career Objective:</h3>
 
