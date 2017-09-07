@@ -28,8 +28,8 @@
     *	Role Played: Developer
     *	Skills Used: HTML, CSS, Bootstrap, jQuery.
     
-   The project aimed at creating a dynamic, interactive website for the client which allows the visitors to book and plan events.
-  <h4>Project Link: www.partysarty.in/demo</h4>
+    The project aimed at creating a dynamic, interactive website for the client which allows the visitors to book and plan events.
+   <strong>Project Link: www.partysarty.in/demo</strong>
 
 2.	Travelholics, A Google Chrome Extension
     *	Duration: April 2017 – April 2017
@@ -37,7 +37,7 @@
     *	Skills Used: HTML, CSS, jQuery, JSON, JavaScript.
     
     It is a Google-Chrome Extension that helps you book online tickets in a single click on Triphobo.
-    <h4>Project Link: https://github.com/punit-agarwal/Travelholics</h4>
+    <strong>Project Link: https://github.com/punit-agarwal/Travelholics</strong>
     
 3.	LNMIIT Faculty Feedback Portal
       * Duration: August 2017 – September 2017
@@ -46,7 +46,7 @@
       *	Skills Used: HTML, CSS, jQuery, PHP.
       
       It is an online portal that allows you to give feedback to various faculties anonymously. It asks user to sign in by sending an  OTP to user’s LNMIIT mail address. Once logged in, user can rate faculty on different parameters.
-      <h4>Project Link: https://github.com/punit-agarwal/LNMfac</h4>
+      <strong>Project Link: https://github.com/punit-agarwal/LNMfac</strong>
 
 4.	LNMIIT Hostel Management System
       *	Duration: August 2017 –August 2017
@@ -55,7 +55,7 @@
       *	Skills Used: C.
       
     It is a traditional way of using management software, build using C language.
-   <h4>Project Link: https://github.com/punit-agarwal/Hostel-Management-Software </h4>
+   <strong>Project Link: https://github.com/punit-agarwal/Hostel-Management-Software </strong>
 
 <h3>Extra-Curricular Activities:</h3>
 
