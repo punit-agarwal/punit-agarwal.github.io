@@ -1,3 +1,5 @@
+[resume_punit.pdf](https://github.com/punit-agarwal/punit-agarwal.github.io/files/1283513/resume_punit.pdf)
+
 <h2>PUNIT AGARWAL</h2>
 <strong>THE LNM INSTITUTE OF INFORMATION TECHNOLOGY</strong><br>
 <strong>Mobile: +919521872532</strong><br>
