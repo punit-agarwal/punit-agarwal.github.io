@@ -444,3 +444,326 @@ body{
   left: 200px;
   top: 7800px;
 }
+
+
+
+
+.Rectangle-200 {
+  width: 500px;
+  height: 980px;
+  border-radius: 20px;
+  background-color: #202020;
+  position: absolute;
+  left: 200px;
+  top: 8500px;
+}
+
+.Rectangle-201 {
+  width: 500px;
+  height: 980px;
+  border-radius: 20px;
+  background-color: #202020;
+  position: absolute;
+  left: 800px;
+  top: 8500px;
+}
+
+
+.Rectangle-202 {
+  width: 500px;
+  height: 980px;
+  border-radius: 20px;
+  background-color: #202020;
+  position: absolute;
+  left: 200px;
+  top: 9535px;
+}
+
+.Rectangle-203 {
+  width: 500px;
+  height: 980px;
+  border-radius: 20px;
+  background-color: #202020;
+  position: absolute;
+  left: 800px;
+  top: 9535px;
+}
+
+
+
+.Rectangle-204 {
+  width: 500px;
+  height: 241px;
+  background-color: #2c2c2c;
+  position: absolute;
+  left: 200px;
+  top: 10272px;
+  border-radius: 20px;
+}
+
+.Rectangle-205 {
+  width: 500px;
+  height: 241px;
+  background-color: #2c2c2c;
+  position: absolute;
+  left: 800px;
+  top: 10272px;
+  border-radius: 20px;
+}
+
+
+.Rectangle-206 {
+  width: 500px;
+  height: 241px;
+  background-color: #2c2c2c;
+  position: absolute;
+  left: 200px;
+  top: 9240px;
+  border-radius: 20px;
+}
+
+.Rectangle-207 {
+  width: 500px;
+  height: 241px;
+  background-color: #2c2c2c;
+  position: absolute;
+  left: 800px;
+  top: 9240px;
+  border-radius: 20px;
+}
+
+
+.Home-1_iphonexspacegrey_portrait5 {
+   width: 887px;
+  height: 887px;
+  object-fit: contain;
+  border-radius: 50px;
+  position: absolute;
+  left: 2px;
+  top: 9600px;
+}
+
+
+.Search--4 {
+  width: 887px;
+  height: 887px;
+  object-fit: contain;
+  border-radius: 50px;
+  position: absolute;
+  left: 610px;
+  top: 9600px;
+}
+
+
+.Home-1_iphonexspacegrey_portrait6 {
+   width: 887px;
+  height: 887px;
+  object-fit: contain;
+  border-radius: 50px;
+  position: absolute;
+  left: 2px;
+  top: 8570px;
+}
+
+
+.Search5 {
+  width: 887px;
+  height: 887px;
+  object-fit: contain;
+  border-radius: 50px;
+  position: absolute;
+  left: 610px;
+  top: 8570px;
+}
+
+
+#Rectangle-250{
+
+  width: 1200px;
+  height: 263px;
+  border-radius: 20px;
+  background-color: #2c2c2c;
+  position: absolute;
+  left: 170px;
+  top: 10960px;
+
+}
+
+#Rectangle-251{
+
+  width: 1200px;
+  height: 263px;
+  border-radius: 20px;
+  background-color: #2c2c2c;
+  position: absolute;
+  left: 170px;
+  top: 11250px;
+
+}
+
+
+#Rectangle-252{
+
+  width: 1200px;
+  height: 280px;
+  border-radius: 20px;
+  background-color: #2c2c2c;
+  position: absolute;
+  left: 170px;
+  top: 11540px;
+
+}
+
+
+#Rectangle-253{
+
+  width: 1200px;
+  height: 263px;
+  border-radius: 20px;
+  background-color: #2c2c2c;
+  position: absolute;
+  left: 170px;
+  top: 11850px;
+
+}
+
+
+#Rectangle-254{
+
+  width: 1200px;
+  height: 263px;
+  border-radius: 20px;
+  background-color: #2c2c2c;
+  position: absolute;
+  left: 170px;
+  top: 12150px;
+
+}
+
+#Rectangle-255{
+
+  width: 1200px;
+  height: 263px;
+  border-radius: 20px;
+  background-color: #2c2c2c;
+  position: absolute;
+  left: 170px;
+  top: 12515px;
+
+}
+
+.get-beta-access-but2{
+
+  width: 232px;
+  height: 82px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  position: absolute;
+  left: 750px;
+  top: 105px;
+
+}
+
+
+.text-Beta-Access {
+  width: 134px;
+  height: 22px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.61;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  position: absolute;
+  left: 740px;
+  top: 108px;
+}
+
+.Zubi-Coorp-Pvt-Ltd-2019 {
+  width: 301px;
+  height: 29px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.21;
+  letter-spacing: normal;
+  text-align: left;
+  color: #acacac;
+  position: absolute;
+  left: 175px;
+  top: 12900px;
+}
+
+.Forum {
+  width: 69px;
+  height: 29px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.21;
+  letter-spacing: normal;
+  text-align: right;
+  color: #acacac;
+   position: absolute;
+  left: 770px;
+  top: 12900px;
+}
+
+.Jobs {
+  width: 53px;
+  height: 29px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.21;
+  letter-spacing: normal;
+  text-align: right;
+  color: #acacac;
+   position: absolute;
+  left: 940px;
+  top: 12900px;
+}
+
+.Careers {
+  width: 82px;
+  height: 29px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.21;
+  letter-spacing: normal;
+  text-align: right;
+  color: #acacac;
+  position: absolute;
+  left: 1100px;
+  top: 12900px;
+}
+
+
+.Contact-Us {
+  width: 118px;
+  height: 29px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.21;
+  letter-spacing: normal;
+  text-align: right;
+  color: #acacac;
+   position: absolute;
+  left: 1290px;
+  top: 12900px;
+}
